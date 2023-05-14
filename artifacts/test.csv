@@ -189,3 +189,13 @@ female,group B,bachelor's degree,standard,none,61,72,70
 male,group A,bachelor's degree,free/reduced,completed,49,58,60
 male,group C,high school,standard,none,81,66,64
 male,group B,some college,standard,completed,87,84,86
+male,group B,some high school,free/reduced,completed,49,50,52
+male,group B,some high school,standard,none,68,54,53
+male,group C,associate's degree,free/reduced,none,77,67,64
+female,group B,bachelor's degree,free/reduced,none,78,79,76
+male,group C,associate's degree,free/reduced,completed,60,51,56
+female,group D,high school,free/reduced,completed,52,57,56
+male,group E,associate's degree,standard,completed,62,56,53
+female,group B,some college,free/reduced,none,74,81,76
+female,group C,associate's degree,standard,none,65,77,74
+female,group D,some high school,standard,completed,61,74,72
