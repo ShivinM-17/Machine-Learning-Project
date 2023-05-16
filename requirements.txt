@@ -8,4 +8,5 @@ xgboost
 dataclasses
 datetime
 dill
+Flask
 -e .
